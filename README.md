@@ -1,10 +1,9 @@
 ## Install
-...
-composer install
-php artisan key:generate
-env
-php artian serve
-...
+`composer install`
+`php artisan key:generate`
+setting env
+`php artian serve`
+
 
 ## Email Setup
 https://www.niagahoster.co.id/blog/cara-kirim-email-laravel/
